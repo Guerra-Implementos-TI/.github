@@ -1,6 +1,7 @@
 ## Descrição / Funcionalidade
-<!-- Descreva brevemente o que foi alterado, corrigido ou implementado -->
-
+<!--
+Descreva brevemente o que foi alterado, corrigido ou implementado 
+-->
 
 ## Documentos Anexos
 - [ ] Patch
